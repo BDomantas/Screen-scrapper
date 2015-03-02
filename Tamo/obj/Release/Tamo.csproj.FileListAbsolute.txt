@@ -1,0 +1,9 @@
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\Tamo.exe.config
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\Tamo.exe
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\Tamo.pdb
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\HtmlAgilityPack.dll
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Release\HtmlAgilityPack.xml
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Release\Tamo.exe
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Release\Tamo.pdb
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Release\Tamo.csprojResolveAssemblyReference.cache

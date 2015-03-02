@@ -1,0 +1,17 @@
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\Tamo.exe.config
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Debug\Tamo.csprojResolveAssemblyReference.cache
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\Tamo.exe
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\Tamo.pdb
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Debug\Tamo.exe
+c:\users\laptop\documents\visual studio 2013\Projects\Tamo\Tamo\obj\Debug\Tamo.pdb
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Laptop\documents\visual studio 2013\Projects\Tamo\Tamo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\bin\Debug\Tamo.exe.config
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\obj\Debug\Tamo.exe
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\obj\Debug\Tamo.pdb
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\bin\Debug\Tamo.exe
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\bin\Debug\Tamo.pdb
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Domantas\Downloads\Tamo-2015-02-27\Tamo\Tamo\obj\Debug\Tamo.csprojResolveAssemblyReference.cache
